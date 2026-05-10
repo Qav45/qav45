@@ -1,16 +1,14 @@
-## Hi there 👋
-
-<!--
-**Qav45/qav45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ## Hi, I'm Qav45
+  I'm a software developer who spends most of my time in the **Java** and **Minecraft server** ecosystem: plugins, gameplay-adjacent systems, and the occasional
+  **resource/texture pack**.
+  ### What I work on
+  - **Server-side Java** — gameplay logic, integrations, and tooling that stays reliable under real player load.
+  ### How I like to build
+  ### Tech I use often
+  `Java` · `Maven` · Minecraft / Paper-style server stacks · Git
+  ### Contact
+  Open an issue on a relevant repository, or add your preferred link here (site, Discord, email).
+  ---
+  <p align="left">
+    <img src="https://komarev.com/ghpvc/?username=Qav45&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  </p>
